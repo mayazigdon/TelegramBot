@@ -1,0 +1,20 @@
+{
+  "breakfast":
+  {
+    "sandwich":
+            {
+              "carbs": ["mini Pitta bread", "2 slices of light bread", "mini light bun", "low calories Tortilla"],
+              "fill in": ["2 slices of 9% yellow cheese", "2 spoons of cottage cheese 3% ", "2 spoons of white cheese 5%", "one flat spoon of bulgarian cheese 5%",
+              "80 grams of Hemed cheese", "80 grams of Tzefatit cheese", "5 slices of light Pastrami + light Mayonnaise" ," egg of any form", "2 spoons of Hummus", "thin spoon of nutella"]
+            },
+    "something else": ["Protein yogurt+ 30 grams of Cornflakes/ banana/ 10 strawberries/ apple", "egg + 2 egg whites + half cottage/cheese cup", "30 grams of oatmeal + banana/ 4 chocolate cubes + half glass of milk/ 6 almonds",
+    "cup of cottage cheese + one slice of light bread","big salad+50 grams of bulgarian cheese + egg"]
+  },
+  "lunch": {
+    "carbs": ["100 grams of rice", "100 grams of pasta","100 grams of quinoa","200 grams of potatoes","300 grams of green beans"],
+    "protein": ["200 grams of chicken breast", "150 grams of pullet","2 Chicken shanks","140 gram steak","160 gram burger","200 gram Sinta steak","150 gram tofu"]
+  },
+  "snack":["yogurt 0%","2 fruits","5 cubes of chocolate","25 gram Bamba","2 mini cookies"],
+  "dinner": ["one egg + 2 egg whites + 100 gram cottage/ cheese+ one slice of light bread", "toast contains: 2 slices of yellow cheese + one spoon of Ketchup","pizza made of light tortilla","bowl of soup","200 gram pasta Rose","40 gram oatmeal","150 gram chicken breast + salad"]
+
+}
